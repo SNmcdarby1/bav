@@ -37,7 +37,7 @@ a:hover {
 }
 
 .color-d {
-    color: #f5f5f5;
+    color: #705a5a;
 }
 
 .color-text-a {
@@ -226,7 +226,7 @@ a:hover {
 
 .socials .ico-circle:hover {
     background-color: #0078ff;
-    color: #fff;
+    color: rgb(228, 223, 157);
     box-shadow: 0 0 0 3px #cde1f8;
     transition: all 500ms ease;
 }
@@ -317,7 +317,7 @@ a:hover {
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
-    color: #fff;
+    color: rgb(245, 250, 176);
     top: auto;
     left: auto;
     right: 30px;
@@ -627,7 +627,7 @@ a:hover {
   * Mobile Navigation 
   */
 .mobile-nav-toggle {
-    color: #fff;
+    color: rgb(248, 226, 104);
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -867,7 +867,7 @@ a:hover {
   # Services
   --------------------------------------------------------------*/
 .service-box {
-    background-color: #fff;
+    background-color: rgb(250, 249, 249);
     padding: 2.5rem 1.3rem;
     border-radius: 1rem;
     margin-bottom: 3rem;
